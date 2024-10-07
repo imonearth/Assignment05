@@ -1,0 +1,40 @@
+/*Lex Williams, 9/30/2024*/
+header {background-image: url(logo.png);
+background-repeat: no-repeat;
+background-color: #29485d;
+background-position: right;
+}
+body {background-color: white;
+color: #555555;
+font-family: arial, helvetica, sans-serif;
+}
+h1 { line-height: 400% ; 
+text-indent: 1em;
+margin-bottom:0;
+color: #FFFFFF;
+font-family: georgia, "times new roman", serif;
+ }
+
+nav {background-color: #C6D02F; font-weight: bold; 
+}
+nav a {text-decoration: none;
+}
+h2 {color: #407386;
+font-family: georgia, "times new roman", serif;
+}
+h3 { font-family: georgia, "times new roman", serif; 
+color: #29485d;
+}
+
+dt {color: #0194B5;
+}
+ul {list-style-image: url(marker.gif);
+}
+li { line-height: 1.5;
+}
+.web {color: #0194B5;
+font-style: bold;
+}
+footer { font-size: 75%; font-style: italic; text-align: center; font-family: georgia, "times new roman", serif; 
+}
+div id="contact" { font-size: 90%;}
